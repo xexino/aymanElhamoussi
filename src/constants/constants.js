@@ -31,16 +31,16 @@ export const projects = [
     description: "This is my personal portfolio that show some of my skills i hope  you enjoy reading this 😃",
     image: '/images/myp.png',
     tags: ['React' , 'Next.js'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/xexino/MyNewPortfolio',
+    visit: 'http://localhost:3000',
     id: 3,
   },
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2020, text: 'Started my journey', },
+  { year: 2020, text: 'started my first course in Ux design', },
+  { year: 2020, text: 'started my training at GomyCode to be a full stack developer(MERN)', },
+  { year: 2021, text: 'get a certificate from Sololearn of React-redux course', },
+  { year: 2021, text: 'bachelor in computer science', },
 ];
