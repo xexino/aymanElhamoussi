@@ -7,7 +7,6 @@ import {
 } from "../../styles/GlobalComponents";
 import Button from "../../styles/GlobalComponents/Button";
 import { LeftSection } from "./HeroStyles";
-
 const Hero = (props) => (
   <>
     <Section row nopadding>
@@ -27,8 +26,9 @@ const Hero = (props) => (
           adapt to it, so the best way is to adjust the mentality of being
           uncomfortable to some degree. The future is just another path.
         </SectionText>
-        <Button onClick={props.handleClick}>Learn More</Button>
+        <Button onClick={props.handleClick}><a href="https://github.com/xexino" target='_blank'>Learn More</a> </Button>
       </LeftSection>
+   
     </Section>
   </>
 );

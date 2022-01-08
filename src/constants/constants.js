@@ -4,8 +4,8 @@ export const projects = [
     description: "Using React, Node.js, Express and MongoDB  . I'have learned how to build a Full Stack MERN Application - from start to finish. The App is called Movie-App and it is a simple Web application that allows users to post watch their favorites Movies.",
       image: '/images/home-movie.png',
       tags: ['Mongo', 'Express', 'React', 'Node'],
-    source: 'https://github.com/xexino/MovieApp',
-    visit: 'https://thumbs.dreamstime.com/b/grunge-textured-not-available-stamp-seal-not-available-stamp-seal-watermark-distress-style-blue-vector-rubber-print-not-138792800.jpg',
+    source: 'https://thumbs.dreamstime.com/b/grunge-textured-not-available-stamp-seal-not-available-stamp-seal-watermark-distress-style-blue-vector-rubber-print-not-138792800.jpg',
+    visit: 'https://github.com/xexino/MovieApp',
     id: 0,
   },
   {
@@ -13,8 +13,8 @@ export const projects = [
     description:"by building this App I'have validate so many advanced skills in react and node js .",
     image: '/images/Todo.png',
     tags: ['React', 'Express', 'MySql', 'Node'],
-    source: 'https://github.com/users/xexino/projects/2',
-    visit: 'https://cdn3.iconfinder.com/data/icons/network-39/210/1771-512.png',
+    source: 'https://cdn3.iconfinder.com/data/icons/network-39/210/1771-512.png',
+    visit: 'https://github.com/users/xexino/projects/2',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "With all advanced Social Media features, such as Google Authentication, create, edit, delete and save posts, like and comment on other people's posts, search and filter images and much more",
       image: '/images/shareit.png',
       tags: ['React', 'sanity' , 'Tailwind'],
-    source: 'https://github.com/users/xexino/projects/3',
-    visit: 'https://thumbs.dreamstime.com/b/grunge-textured-not-available-stamp-seal-not-available-stamp-seal-watermark-distress-style-blue-vector-rubber-print-not-138792800.jpg',
+    source: 'https://thumbs.dreamstime.com/b/grunge-textured-not-available-stamp-seal-not-available-stamp-seal-watermark-distress-style-blue-vector-rubber-print-not-138792800.jpg',
+    visit: 'https://github.com/users/xexino/projects/3',
     id: 2,
   },
   {
@@ -31,8 +31,8 @@ export const projects = [
     description: "This is my personal portfolio that show some of my skills i hope  you enjoy reading this 😃",
     image: '/images/myp.png',
     tags: ['React' , 'Next.js'],
-    source: 'https://github.com/xexino/MyNewPortfolio',
-    visit: 'http://localhost:3000',
+    source: 'http://localhost:3000',
+    visit: 'https://github.com/xexino/MyNewPortfolio',
     id: 3,
   },
 ];
