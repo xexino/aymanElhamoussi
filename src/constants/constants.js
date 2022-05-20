@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Ecomerce-Dashboard',
     description:"by building this App I'have validate so many advanced skills in React.js .",
-    image: '/images/ecom.PNG',
+    image: '/images/ecom.png',
     tags: ['React', 'Tailwind css'],
     source: 'https://cdn3.iconfinder.com/data/icons/network-39/210/1771-512.png',
     visit: 'https://github.com/xexino/dashboard',
