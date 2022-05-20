@@ -9,12 +9,12 @@ export const projects = [
     id: 0,
   },
   {
-    title: 'Todo-App',
-    description:"by building this App I'have validate so many advanced skills in react and node js .",
-    image: '/images/Todo.PNG',
-    tags: ['React', 'Express', 'MySql', 'Node'],
+    title: 'Ecomerce-Dashboard',
+    description:"by building this App I'have validate so many advanced skills in React.js .",
+    image: '/images/ecom.PNG',
+    tags: ['React', 'Tailwind css'],
     source: 'https://cdn3.iconfinder.com/data/icons/network-39/210/1771-512.png',
-    visit: 'https://github.com/users/xexino/projects/2',
+    visit: 'https://github.com/xexino/dashboard',
     id: 1,
   },
   {
